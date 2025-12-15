@@ -1,0 +1,5 @@
+module Sistema {
+    interface Calculadora {
+        double quadrado(in double numero);
+    };
+};
